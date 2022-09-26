@@ -1,5 +1,3 @@
-*I am currently in the middle of moving, so I might not be able to respond to messages and PRs right away temporarily.*
-
 ### Hi there 👋
 
 My name is Dániel Szabó, I am a software developer and creator from Hungary, currently enjoying life in Scotland.
